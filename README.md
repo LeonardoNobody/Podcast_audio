@@ -60,7 +60,7 @@ Desenvolvedor em formação, apaixonado por tecnologia, automação e criativida
 Estudante do **Santander Bootcamp 2025 – IA Generativa com Microsoft Copilot (DIO)**.  
 
 🌐 [GitHub](https://github.com/LeonardoNobody)  
-💼 [LinkedIn](https://www.linkedin.com/in/leonardonobody](https://www.linkedin.com/in/leonardo-souza-35a07920b/))  
+💼 [LinkedIn](https://www.linkedin.com/in/leonardonobody](https://www.linkedin.com/in/leonardo-souza-35a07920b/)  
 
 ---
 
