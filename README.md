@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/LeonardoNobody/Podcast_audio/blob/main/Lucid_Origin_epic_fantasy_style_podcast_cover_titled_O_Senhor__0.jpg" alt="O Senhor dos Layouts" width="800">
+</p>
+
+# 🎙️ O Senhor dos Layouts – A Jornada das Interfaces  
+> Projeto desenvolvido no **Santander Bootcamp 2025 – IA Generativa com Microsoft Copilot (DIO)**
+
+
+
 # 🎙️ O Senhor dos Layouts – A Jornada das Interfaces  
 
 > Projeto desenvolvido no **Santander Bootcamp 2025 – IA Generativa com Microsoft Copilot (DIO)**  
